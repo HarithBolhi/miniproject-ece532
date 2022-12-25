@@ -1,2 +1,2 @@
-# miniproject-ece532
-group 7
+# Miniproject ECE532 Group 7
+MINIMUM COUNTER SYSTEM FOR RAILWAY PLATFORM
